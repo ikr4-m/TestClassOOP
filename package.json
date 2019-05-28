@@ -13,6 +13,6 @@
     "start": "ts-node index"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Ikramullah Latif",
+  "license": "MIT"
 }
