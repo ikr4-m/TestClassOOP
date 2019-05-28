@@ -1,3 +1,3 @@
-<h1 align="center">Test_Class_OOP</p>
+<h1 align="center">Test_Class_OOP</h1>
 
 *Lagi ditulis*
